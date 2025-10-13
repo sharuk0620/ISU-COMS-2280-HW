@@ -1,0 +1,8 @@
+F0  E   E   E   B4  E   F0  B4
+E   E   E   E   E   B4  B1  B4
+E   A0  A5  E   E   E   E   E
+E   A4  A1  A0  E   A1  E   E
+B4  B2  A3  A0  A0  A3  F2  E
+B4  F5  E   A2  A0  A0  A1  N
+F5  B2  B2  A1  A1  A2  A3  N
+B4  B5  B2  F2  A0  A1  A0  N
